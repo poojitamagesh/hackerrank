@@ -8,11 +8,11 @@
 
 // Solution:
 
-// Solution function
-
 n = 9; //array length
 
 ar = [10, 20, 20, 10, 10, 30, 50, 10, 20];
+
+//solution function
 
 function sockMerchant(n, ar) {
     ar = ar.sort();
