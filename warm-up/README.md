@@ -29,7 +29,7 @@ The second line contains **_n_** space-separated integers describing the colors 
 #### Constraints
 
 - **_1<=n<=100_**
--**_1<=ar[i]<=100 where 0<=i<n_**
+- **_1<=ar[i]<=100 where 0<=i<n_**
 
 
 #### Output Format
