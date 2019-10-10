@@ -1,4 +1,4 @@
-## HackerRank - Sock Merchant JS
+## HackerRank - Repeated String JS
 - **Language used:** JavaScript 
 - **Problem Link:** https://www.hackerrank.com/challenges/repeated-string/problem
 - **Level**: Easy
