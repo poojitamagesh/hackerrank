@@ -17,8 +17,8 @@ Complete the repeatedString function in the editor below. It should return an in
 
 repeatedString has the following parameter(s):
 
--s: a string to repeat
--n: the number of characters to consider
+- s: a string to repeat
+- n: the number of characters to consider
 
 #### Input Format
 
@@ -28,9 +28,9 @@ The second line contains an integer, _**n**_.
 
 #### Constraints
 
--_**1<=|s|<=100**_
--_**1<=n<=10^12**_
--_**For 25% of the test cases, n<=10^6**_
+- _**1<=|s|<=100**_
+- _**1<=n<=10^12**_
+- _**For 25% of the test cases, n<=10^6**_
 
 
 #### Output Format
