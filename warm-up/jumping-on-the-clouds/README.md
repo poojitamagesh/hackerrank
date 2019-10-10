@@ -1,4 +1,4 @@
-## HackerRank - Sock Merchant JS
+## HackerRank - Jumping On The Clouds JS
 - **Language used:** JavaScript 
 - **Problem Link:** https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 - **Level**: Easy
